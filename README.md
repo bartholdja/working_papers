@@ -1,2 +1,1 @@
-working_papers
-==============
+Repository to store working papers
